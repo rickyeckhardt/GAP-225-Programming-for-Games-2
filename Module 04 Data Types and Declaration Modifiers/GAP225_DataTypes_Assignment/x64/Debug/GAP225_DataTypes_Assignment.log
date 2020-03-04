@@ -1,0 +1,6 @@
+﻿  Deck.cpp
+  DeckSandbox.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\Scott\Dropbox\C++\GAP225_DataTypes_Assignment\GAP225_DataTypes_Assignment\Main.cpp(8,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  GAP225_DataTypes_Assignment.vcxproj -> C:\Users\Scott\Dropbox\C++\GAP225_DataTypes_Assignment\x64\Debug\GAP225_DataTypes_Assignment.exe
